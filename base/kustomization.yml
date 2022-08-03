@@ -1,0 +1,8 @@
+---
+resources:
+  - frontend-deployment.yml
+  - frontend-service.yml
+  - redis-follower-deployment.yml
+  - redis-follower-service.yml
+  - redis-leader-deployment.yml
+  - redis-leader-service.yml

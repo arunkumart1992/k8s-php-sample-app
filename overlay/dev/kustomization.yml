@@ -1,0 +1,7 @@
+---
+namespace: dev
+resources:
+- ./../../base
+- fe-namespace.yml
+patchesStrategicMerge:
+- frontend-replica.yml
