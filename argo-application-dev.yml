@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mgirisankar/guestbook.git
+    repoURL: https://github.com/arunkumart1992/k8s-php-sample-app.git
     targetRevision: HEAD
     path: overlays/dev
   destination:
